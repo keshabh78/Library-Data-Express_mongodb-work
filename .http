@@ -1,0 +1,9 @@
+POST http://localhost:3000/add-new-post
+Content-Type: application/json
+
+{
+    
+    "Book_Name":"The power of your subconscious mind",
+    "Name_of_Issuer":"Dcquaster Jack",
+    "Due_Date":"07-05-20"
+}
